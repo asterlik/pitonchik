@@ -80,10 +80,10 @@ chair_bt1 = store[chair_code][0]
 chair_bt2 = store[chair_code][1]
 chair_bt3 = store[chair_code][2]
 
-chair_quantity_total = (chair_bt1['quantity'] + 
+chair_qnt_total = (chair_bt1['quantity'] + 
                         chair_bt2['quantity'] + 
                         chair_bt3['quantity'])
 chair_cost_total = (chair_bt1['quantity'] * chair_bt1['price'] + 
                     chair_bt2['quantity'] * chair_bt2['price'] + 
                     chair_bt3['quantity'] * chair_bt3['price'])
-print('стул -', chair_quantity_total, 'шт, стоимость', chair_cost_total, 'руб')
+print('стул -', chair_qnt_total, 'шт, стоимость', chair_cost_total, 'руб')
