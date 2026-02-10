@@ -9,6 +9,9 @@ zoo = ['lion', 'kangaroo', 'elephant', 'monkey', ]
 #  и выведите список на консоль
 # TODO здесь ваш код
 
+zoo.insert(1,'bear')
+print(zoo)
+
 # добавьте птиц из списка birds в последние клетки зоопарка
 birds = ['rooster', 'ostrich', 'lark', ]
 #  и выведите список на консоль
