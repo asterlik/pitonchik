@@ -128,12 +128,13 @@
 
 # Cписок использованных команд
 ---------- 
-#git add .
-#git status
-#git commit -m "комит"
-#git push
-#git pull
-#python3
+####
+git add .
+git status
+git commit -m "комит"
+git push
+git pull
+python3
 
 # Список использованных источников
 --------
