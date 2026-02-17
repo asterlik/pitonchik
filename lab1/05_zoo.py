@@ -34,5 +34,5 @@ print(zoo)
 lion_c = zoo.index('lion') + 1
 lark_c = zoo.index('lark') + 1
 
-print(f"лев в клетке под номером{lion_c}")
-print(f"жаворонок в клетке под номером{lark_c}")
+print(f"лев в клетке под номером {lion_c}")
+print(f"жаворонок в клетке под номером {lark_c}")

@@ -29,7 +29,7 @@ point_1 = (23, 34)
 # TODO здесь ваш код
 
 len1 = (23**2 + 32**2)**(1/2)
-if len1 > radius:
+if len1 < radius:
     print("True")
 else:
     print("False")
