@@ -4,7 +4,8 @@
 
 Формула для вычислений - ((x1 - x2) ** 2 + (y1 - y2) ** 2) ** 0.5
 
-#### Рещультат
+#### Результат
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c621a57c-7031-4f5f-8174-8ce595faecdc" />
 
 
 # ЗАДАНИЕ 01_circle.py
@@ -18,6 +19,7 @@
 По формуле площади круга: S = pi*R^2
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/33a549c8-5c47-4169-8063-46017a9e8ddd" />
 
 
 # ЗАДАНИЕ 02_operations.py
@@ -25,6 +27,7 @@
 #### Задание :  Расставьте знаки операций "плюс", "минус", "умножение" и скобки между числами "1 2 3 4 5" так, что бы получилось число "25".
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c6d5a39-a1a5-490d-a539-a1a766e360f3" />
 
 
 # ЗАДАНИЕ 03_favorite_movies.py
@@ -34,6 +37,7 @@
 Не используя .split() или .find(), обычными срезами
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/345de268-ad8a-45e1-b81e-63c7c7a04fd8" />
 
 
 # ЗАДАНИЕ 04_my_family.py
@@ -41,6 +45,7 @@
 #### Задание : Составить список семьи с приблизительным ростом, вывести на экран в указанном формате рост отца и общий рост семьи
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f23c4c04-e25c-4eb1-8448-7ec3e32cf9d5" />
 
 
 # ЗАДАНИЕ 05_zoo.py
@@ -57,6 +62,7 @@
 # Номера при выводе должны быть понятны простому человеку, не программисту.
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dc2161d5-8d4a-448f-a0b9-fa686597c5c6" />
 
 
 # ЗАДАНИЕ 06_songs_list.py
@@ -69,6 +75,7 @@
 #   А другие три песни звучат ХХХ минут
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08e5c89f-9854-4900-9415-03234e202094" />
 
 
 # ЗАДАНИЕ 07_secret.py
@@ -76,6 +83,7 @@
 #### Задание : С помощью срезов расшифровать и вывести на консоль в удобочитаемом виде зашифрованное сообщение, должна получиться фраза на русском языке
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/95f24a35-36af-4eba-8ef7-4f1ba8a7c592" />
 
 
 # ЗАДАНИЕ 08_garden.py
@@ -83,6 +91,7 @@
 #### Задание : Создать множества для цветов на лугу и в саду, вывести на экран списки цветов по определенным условиям
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e8f9d2f1-df9d-40ac-8eff-a8e19f588f03" />
 
 
 # ЗАДАНИЕ 09_shopping.py
@@ -90,6 +99,7 @@
 #### Задание : Создать словарь цен на продукты и вывести на жкран информацию с магазинами и ценами продуктов, указать надо только по 2 магазина с минимальными ценами
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/194ce9fa-92bc-4308-b448-350c23e11a1e" />
 
 
 # ЗАДАНИЕ 10_store.py
@@ -104,6 +114,7 @@
 # Формат строки <товар> - <кол-во> шт, стоимость <общая стоимость> руб
 
 #### Результат:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/032b8570-8e49-4501-a7e9-4c920426ae21" />
 
 
 
