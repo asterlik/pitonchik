@@ -127,14 +127,13 @@
 <img width="702" height="88" alt="image" src="https://github.com/user-attachments/assets/b891b963-848c-40af-b98d-31f4c312c834" />
 
 # Cписок использованных команд
-----------
-# 
-git add .
-git status
-git commit -m "комит"
-git push
-git pull
-python3
+---------- 
+#git add .
+#git status
+#git commit -m "комит"
+#git push
+#git pull
+#python3
 
 # Список использованных источников
 --------
