@@ -129,16 +129,19 @@
 # Cписок использованных команд
 ---------- 
 ####
-git add .
-git status
-git commit -m "комит"
-git push
-git pull
-python3
+git add . ервая команда в цепочке операций, предписывающей Git «сохранить» снимок текущего состояния проекта в истории коммитов
+
+git status показывает состояния файлов в рабочем каталоге и индексе
+
+git commit -m "комит" перенести с определенным комментарием
+
+git push отправлять локальную ветку на удаленный репозиторий
+
+git pull извлечения и загрузки содержимого из удаленного репозитория и немедленного обновления локального репозитория этим содержимым
 
 # Список использованных источников
 --------
-# 1. https://docs.google.com/document/d/1r4uqIEtQFG6JAGAX5YYOj8DCA55aI4b3iXtJNrENweU/edit?pli=1&tab=t.0#heading=h.c40rgxxylne
+1. [FAQ по курсу “Пайтон с нуля”](https://docs.google.com/document/d/1r4uqIEtQFG6JAGAX5YYOj8DCA55aI4b3iXtJNrENweU/edit?pli=1&tab=t.0#heading=h.c40rgxxylne)
 
 
 
