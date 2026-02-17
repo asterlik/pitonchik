@@ -126,7 +126,18 @@
 #### Результат:
 <img width="702" height="88" alt="image" src="https://github.com/user-attachments/assets/b891b963-848c-40af-b98d-31f4c312c834" />
 
+# Cписок использованных команд
+----------
+# git add .
+git status
+git commit -m "комит"
+git push
+git pull
+python3
 
+# Список использованных источников
+--------
+# 1. https://docs.google.com/document/d/1r4uqIEtQFG6JAGAX5YYOj8DCA55aI4b3iXtJNrENweU/edit?pli=1&tab=t.0#heading=h.c40rgxxylne
 
 
 
