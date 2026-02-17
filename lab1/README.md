@@ -128,7 +128,8 @@
 
 # Cписок использованных команд
 ----------
-# git add .
+# 
+git add .
 git status
 git commit -m "комит"
 git push
